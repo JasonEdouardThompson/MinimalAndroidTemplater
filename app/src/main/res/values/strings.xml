@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">Text Field With HTML</string>
+    <string name="app_name">Minimal Android Templater Example</string>
     <string name="action_settings">Settings</string>
 </resources>
